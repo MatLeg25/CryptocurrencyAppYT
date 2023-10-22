@@ -7,16 +7,20 @@ The app uses CoinPaprikaApi to fetch cryptocurrency data.
 
 ## Screenshots:
 - Loading screen: <br />
-![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/190163ff-4e41-41e8-adac-7676ed09d923)
+![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/e63a5d4f-5083-4c3e-883a-ccdfdf785f2f)
+
 
 - Error handling screen: <br />
-![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/6234b0b4-30ae-4a5f-b759-b77b4a324aef)
+![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/085e8a75-8f26-4796-9fa1-f40d231fed8e)
+
 
 - Coin list screen: <br />
-![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/27162597-6839-4889-a66c-ed758b4c9e7a)
+![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/2874779c-044e-4856-bf42-55c3e4ade98f)
+
 
 - Coin detail screen: <br />
-![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/a080f2a9-6c58-4217-a847-20da2e392bef)
+![image](https://github.com/MatLeg25/CryptocurrencyAppYT/assets/70913892/17af196f-ab10-4d99-8bfb-ad03e998f0a7)
+
 
 
 ## Video:
